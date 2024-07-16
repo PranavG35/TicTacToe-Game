@@ -1,2 +1,2 @@
 # TicTacToe-Game
-Tic Tac Toe Game developed using c++
+A Tic Tac Toe game project involves developing a digital version of the classic two-player game where participants alternately mark Xs and Os on a 3x3 grid. The game includes features such as a simple, interactive interface, two-player mode on the same device, automatic win and draw detection, and an option to restart the game. The project aims to deliver an engaging and easy-to-play game experience suitable for all ages.
